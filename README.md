@@ -29,7 +29,7 @@ This is Day 1 of my 30-Day React Relearning Journey. The focus of this project i
 
 ## 📸 Preview
 
-![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/hello-react/main/screenshot.png)
+![App Preview](./screenshot.png)
 
 ---
 
@@ -46,7 +46,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https://your-vercel-link.vercel.app)
+This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https://hello-react-theta-rouge.vercel.app/)
 
 ---
 

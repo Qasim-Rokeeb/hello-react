@@ -5,3 +5,4 @@ export default function Greeting({ name }) {
     </h1>
   );
 }
+
